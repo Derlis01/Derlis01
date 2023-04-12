@@ -4,7 +4,7 @@ Soy Derlis Cuba, un desarrollador web apasionado por crear soluciones innovadora
 
 ## Tecnologías 🚀
 
-Estas son algunas de las tecnologías que uso o estoy aprendiendo:
+Estas son algunas de las tecnologías que uso:
 
 - JavaScript
 - HTML5
