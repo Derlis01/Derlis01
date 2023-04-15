@@ -1,7 +1,5 @@
 # Hola 👋
 
-Soy Derlis Cuba, un desarrollador web apasionado por crear soluciones innovadoras y eficientes.
-
 ## Tecnologías 🚀
 
 Estas son algunas de las tecnologías que uso:
