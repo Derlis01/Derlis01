@@ -4,18 +4,7 @@
 
 Estas son algunas de las tecnologías que uso:
 
-- JavaScript
-- HTML5
-- CSS3
-- Express
-- React
-- Node
-- NPM
-- Mongoose
-- MongoDB
-- GIT
-- GitHub
-- AWS EC2
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,mongodb,git,github,aws)](https://skillicons.dev)
 
 ## Proyectos 💻
 
@@ -38,8 +27,6 @@ Algunos intereses que tengo aparte de la programación son:
 🔬 Ciencia en general: Me gusta estar al día con los avances científicos y entender cómo funciona el mundo.
 
 💰 Economía: Me interesa conocer cómo se mueve el dinero y cómo afecta a la sociedad.
-
-🌳 Caminar al aire libre: Me gusta visitar lugares naturales y disfrutar del paisaje y el aire fresco.
 
 ## Contacto 📫
 
